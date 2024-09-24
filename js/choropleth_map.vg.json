@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Number of Cows Worldwide",
+  "title": "Number of Cows per Country in 2022",
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
